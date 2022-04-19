@@ -167,7 +167,7 @@ def rana1():
         s()
     else:
         os.system('clear')
-        print logo
+        print(logo)
         print '\tApproved Failed'
         print ' \x1b[1;97mYour Id Is Not Approved '
         print ' \x1b[1;97mCopy the id and send to Admin'
