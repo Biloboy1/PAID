@@ -172,7 +172,7 @@ def rana1():
 
 def s():
     os.system('clear')
-    print logo
+    print(logo)
     print("[\x1b[1;97m\x1b[1;41mWellcome To Okenwa Tool\x1b[0m\x1b[1;97m]")
     print("\x1b[1;91m[1]\x1b[1;97m Hack From File\x1b[1;91m        [Method 1]")
     print("\x1b[1;91m[2]\x1b[1;97m Hack From File\x1b[1;91m        [Method 2]")
