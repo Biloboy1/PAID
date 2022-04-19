@@ -169,12 +169,12 @@ def rana1():
         os.system('clear')
         print(logo)
         print '\tApproved Failed'
-        print ' \x1b[1;97mYour Id Is Not Approved '
-        print ' \x1b[1;97mCopy the id and send to Admin'
-        print ' \x1b[1;97mYour Key : ' + to
-        raw_input('\x1b[1;93m Press enter to send id')
-        os.system('xdg-open https://wa.me/+2347061758885')
-        rana1()
+        
+        
+        
+       
+        
+
 
 
 def rana2():
