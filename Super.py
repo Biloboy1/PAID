@@ -197,7 +197,9 @@ def s_option():
  if select =="4":
    os.system('python2 public.py')
  if select =="5":
-	os.system('python2 multi.py')
+	
+	
+   os.system('python2 multi.py')
  if select =="6":
 	yayanxd()
  if select =="7":
