@@ -146,7 +146,7 @@ def rana1():
     print(logo)
     print('')
    
-    print ''
+    print('')
     time.sleep(1)
     try:
         to = open('/sdcard/.rana.txt', 'r').read()
