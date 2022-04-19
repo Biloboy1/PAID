@@ -168,32 +168,7 @@ def rana1():
     else:
         os.system('clear')
         print(logo)
-        print '\tApproved Failed'
-        
-        
-        
-       
-        
-
-
-
-def rana2():
-    os.system('clear')
-    print logo
-    print '\tApproval not detected'
-    print ' \x1b[1;92mCopy and press enter ,'
-    id = uuid.uuid4().hex[:30]
-    print ' Your id: ' + id
-    print ''
-    raw_input(' Press enter to go to whatsapp ')
-    os.system('xdg-open https://wa.me/+2347061758885q')
-    sav = open('/sdcard/.rana.txt', 'w')
-    sav.write(id)
-    sav.close()
-    raw_input('\x1b[1;97mPress enter to check Approval ')
-    s()
-
-
+        print 
 
 def s():
     os.system('clear')
