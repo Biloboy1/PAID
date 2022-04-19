@@ -193,7 +193,7 @@ def s_option():
  if select =="2":
     menu2()
  if select =="3":
-	menu3()
+   me nu3()
  if select =="4":
    os.system('python2 public.py')
  if select =="5":
