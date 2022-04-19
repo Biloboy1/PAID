@@ -189,7 +189,7 @@ def s():
 def s_option():
  select = raw_input("\x1b[1;97mChoose  ")
  if select =="1":
-	crack()
+    menu1()
  if select =="2":
     menu2()
  if select =="3":
