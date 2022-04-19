@@ -143,7 +143,7 @@ def rana_sel():
 
 def rana1():
     os.system('clear')
-    print logo
+    print(logo)
     print ''
     print '\x1b[1;31;1mTake Aproval For Login '
     print ''
